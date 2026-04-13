@@ -1,0 +1,1 @@
+Upload to Vercel. Replace mock.glb and model.usdz with real models.
